@@ -1,0 +1,14 @@
+{
+  "name": "vless",
+  "description": "Deploy vless on Heroku.",
+  "keywords": [],
+  "env": {
+    "ID": {
+      "value": "",
+      "description": ""
+    }
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+}
